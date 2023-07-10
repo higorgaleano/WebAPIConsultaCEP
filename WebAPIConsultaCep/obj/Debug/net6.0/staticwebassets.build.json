@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SNTEutaslgHphqABZAQ4dD+Fq9ooUCROFye7A6tsI0Q=",
+  "Source": "WebAPIConsultaCep",
+  "BasePath": "_content/WebAPIConsultaCep",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

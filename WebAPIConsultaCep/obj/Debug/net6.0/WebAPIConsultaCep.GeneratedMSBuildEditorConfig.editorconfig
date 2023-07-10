@@ -1,0 +1,17 @@
+is_global = true
+build_property.RefitInternalNamespace = WebAPIConsultaCep
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAPIConsultaCep
+build_property.RootNamespace = WebAPIConsultaCep
+build_property.ProjectDir = D:\Programacao\Curso C Sharp\Desenvolvedor Tech (YouTube) - Asp.Net MVC\WebAPIConsultaCep\WebAPIConsultaCep\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Programacao\Curso C Sharp\Desenvolvedor Tech (YouTube) - Asp.Net MVC\WebAPIConsultaCep\WebAPIConsultaCep
+build_property._RazorSourceGeneratorDebug = 
